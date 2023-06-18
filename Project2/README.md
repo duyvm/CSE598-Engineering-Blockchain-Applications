@@ -1,0 +1,11 @@
+# CSE598 Engineering Blockchain Applications
+ Repository for CSE598 class projects
+
+MetaMask Address: 0x6F756692B849E9d076b0Bc562aB251faC4b71593
+
+Deployed Contract Address: 0x35eCda904b8643733c185fd79ef48bf1e896a514
+
+VO DUY	59C09217	BFA57AF6	0	Any uint256 that represents the total supply of your tokens	
+100 0x4DA59FE6c21b33D153dc799EaBCF10076d9F769f	
+419527	0x9709df3B12d0B3A0A27716F598dDD2C119F37582	
+24733	0xC38be03FEe1404c155002b6D6160e7aac4C6C0e0	24733
