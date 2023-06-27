@@ -8,4 +8,4 @@ TLDR: Fill in code based on comment
 
 ### [Base code](/Project1/Basecode/Assignment1/)
 
-### [Submition](/Project1//Submition/)
+### [Submission](/Project1//Submission/)
